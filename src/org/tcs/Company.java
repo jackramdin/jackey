@@ -4,6 +4,7 @@ public class Company  {
 	
 	public void cmpId() {
 		System.out.println("company id is 123 ");
+		System.out.println("jonnn");
 	}
 		
 	public static void main(String[] args) {
